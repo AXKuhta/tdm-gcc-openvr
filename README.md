@@ -1,3 +1,5 @@
+**UPDATE:** Please refer to CNLohr's video on OpenVR from C instead: https://www.youtube.com/watch?v=r6kM3tR03g4
+
 # tdm-gcc-openvr
 Get VR working from C with the smallest possible amount of code
 
